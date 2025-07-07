@@ -1,0 +1,4 @@
+.env
+1-Langchain/5-DataBase/chroma_db/
+1-Langchain/5-DataBase/faiss_index/
+lang-c 
