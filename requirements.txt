@@ -16,3 +16,5 @@ langchain_huggingface
 faiss-cpu
 sentence-transformers
 beautifulsoup4
+streamlit
+langchain-ollama
